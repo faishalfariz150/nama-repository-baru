@@ -1,2 +1,2 @@
 # nama-repository-baru
-Masukkan deskripsi repository
+Masukkan deskripsi repository, tambahan.
